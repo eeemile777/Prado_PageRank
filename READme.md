@@ -29,4 +29,4 @@ This repository contains the implementation and results of applying the PageRank
   [📄 Report.pdf](https://github.com/eeemile777/Prado_PageRank/blob/main/Report.pdf)
 
 - **🖼️ Results**:  
-  The analysis identified key paintings and artists, such as **Francisco de Goya y Lucientes**, and revealed connections between artworks. Full results and insights are available in the [Report.pdf](https://github.com/eeemile777/Prado_PageRank/blob/main/Report.pdf).
+  The analysis identified key paintings and artists, such as **Francisco de Goya y Lucientes**, and revealed connections between artworks. Full results and insights are available in the [Report.pdf](https://github.com/eeemile777/Prado_PageRank/blob/main/Prado_PageRank.pdf).
