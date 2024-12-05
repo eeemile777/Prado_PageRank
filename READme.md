@@ -25,8 +25,7 @@ This repository contains the implementation and results of applying the PageRank
 - **Open the Notebook in Google Colab**:  
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eeemile777/Prado_PageRank/blob/main/Prado_PageRank.ipynb)
 
-- **Read the Report**:  
-  [📄 Report.pdf](https://github.com/eeemile777/Prado_PageRank/blob/main/Report.pdf)
+- **Read the Report**.
 
 - **🖼️ Results**:  
   The analysis identified key paintings and artists, such as **Francisco de Goya y Lucientes**, and revealed connections between artworks. Full results and insights are available in the [Report.pdf](https://github.com/eeemile777/Prado_PageRank/blob/main/Prado_PageRank.pdf).
