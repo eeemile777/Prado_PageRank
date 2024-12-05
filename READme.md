@@ -11,7 +11,7 @@ This repository contains the implementation and results of applying the PageRank
 ## 📖 Project Overview
 - **Goal**: Rank paintings based on their connections, themes, and authorship using PageRank.
 - **Dataset**: [Prado Museum Dataset](https://www.kaggle.com/datasets/maparla/prado-museum-pictures)
-- **Tools**: PySpark, Python, and LaTeX.
+- **Tools**: PySpark, Python.
 
 ## 🚀 How to Use
 1. Clone the repo:
